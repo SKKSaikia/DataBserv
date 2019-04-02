@@ -4,7 +4,7 @@ Database --- (i) Relational (ii)Non Relational
 
 <b>🕭 RELATIONAL / SQL / RDBMS</b>
 
-[Oracle](https://www.oracle.com/database/), [MySQL](https://www.mysql.com/), [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [PostgreSQL](https://www.postgresql.org/), [DB2](https://www.ibm.com/analytics/us/en/db2/).
+[Oracle](https://www.oracle.com/database/) + PL/SQL, [MySQL](https://www.mysql.com/), [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [PostgreSQL](https://www.postgresql.org/), [DB2](https://www.ibm.com/analytics/us/en/db2/).
 
 <b>🕭 NoSQL / Non-RELATIONAL</b>
 
