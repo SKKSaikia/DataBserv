@@ -4,9 +4,13 @@ Database (i) Relational (ii)Non Relational
 
 <b>🕭 RELATIONAL / SQL / RDBMS</b>
 
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=100px>
+
 [Oracle](https://www.oracle.com/database/) + PL/SQL, [MySQL](https://www.mysql.com/), [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [PostgreSQL](https://www.postgresql.org/), [DB2](https://www.ibm.com/analytics/us/en/db2/).
 
 <b>🕭 NoSQL / Non-RELATIONAL</b>
+
+<img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px>
 
 Key-Value Stores - [Redis](https://redis.io/) and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)<br/>
 Wide Column Stores - [Cassandra](http://cassandra.apache.org/) & [CQL](https://docs.datastax.com/en/archived/cql/3.1/cql/cql_intro_c.html), [Scylla](https://www.scylladb.com/) and [HBase](https://hbase.apache.org/)<br/>
