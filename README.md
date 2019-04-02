@@ -32,7 +32,9 @@ Data Base and Server
 
 Cluster Software [list](https://en.wikipedia.org/wiki/Comparison_of_cluster_software) ;  Stanford's [ME-344 repository](https://github.com/stanfordhpccenter/me344)
 
-<b> ☸ CUDA PROGRAMMING </b>
+<b> ☸ CUDA PROGRAMMING </b><br/>
+
+NVIDIA CUDA [Documentation](https://docs.nvidia.com/cuda/index.html) : Programming  [Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
 
 Next Steps: Big Data and Cloud
