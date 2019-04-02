@@ -1,4 +1,21 @@
-# DB_server
+# DATABASE : DBMS
+
+Database ---{ (i) Relational (ii)Non Relational
+
+🕭 RELATIONAL / SQL / RDBMS
+
+Oracle, MySQL, Microsoft SQL Server, PostgreSQL, DB2.
+
+🕭 NoSQL / Non-RELATIONAL
+
+Key-Value Stores - Redis and Amazon DynamoDB<br/>
+Wide Column Stores - Cassandra & CQL, Scylla, and HBase<br/>
+Document Stores - MongoDB and Couchbase<br/>
+Graph Databases - Neo4J and Datastax Enterprise Graph<br/>
+Search Engines - Elasticsearch, Splunk, and Solr<br/>
+
+
+
 Data Base and Server
 
 # How to build own Server to ho
