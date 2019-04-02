@@ -10,7 +10,7 @@ Database (i) Relational (ii)Non Relational
 
 <b>🕭 NoSQL / Non-RELATIONAL</b>
 
-<img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px>
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1200px-Redis_Logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/220px-DynamoDB.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1280px-Cassandra_logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo.1509472374.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/hbase_logo_with_orca_large.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo-mongodb-png-file-mongodb-logo-svg-1280.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/neo4j_logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/dsegraph.jpg" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/elastic-logo-V-full-color.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/splunk-580x358.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Solr_Logo_on_white.png" height=100px>
 
 Key-Value Stores - [Redis](https://redis.io/) and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)<br/>
 Wide Column Stores - [Cassandra](http://cassandra.apache.org/) & [CQL](https://docs.datastax.com/en/archived/cql/3.1/cql/cql_intro_c.html), [Scylla](https://www.scylladb.com/) and [HBase](https://hbase.apache.org/)<br/>
@@ -23,6 +23,8 @@ Search Engines - [Elasticsearch](https://www.elastic.co/), [Splunk](https://www.
 Data Base and Server
 
 # How to build own Server to ho
+
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px>
 
 # High Performance Computing
 
