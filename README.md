@@ -4,15 +4,15 @@ Database --- (i) Relational (ii)Non Relational
 
 <b>🕭 RELATIONAL / SQL / RDBMS</b>
 
-Oracle, MySQL, Microsoft SQL Server, PostgreSQL, DB2.
+[Oracle](https://www.oracle.com/database/), [MySQL](https://www.mysql.com/), [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [PostgreSQL](https://www.postgresql.org/), [DB2](https://www.ibm.com/analytics/us/en/db2/).
 
 <b>🕭 NoSQL / Non-RELATIONAL</b>
 
-Key-Value Stores - Redis and Amazon DynamoDB<br/>
-Wide Column Stores - Cassandra & CQL, Scylla, and HBase<br/>
-Document Stores - MongoDB and Couchbase<br/>
-Graph Databases - Neo4J and Datastax Enterprise Graph<br/>
-Search Engines - Elasticsearch, Splunk, and Solr<br/>
+Key-Value Stores - [Redis](https://redis.io/) and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)<br/>
+Wide Column Stores - [Cassandra](http://cassandra.apache.org/) & [CQL](https://docs.datastax.com/en/archived/cql/3.1/cql/cql_intro_c.html), [Scylla](https://www.scylladb.com/) and [HBase](https://hbase.apache.org/)<br/>
+Document Stores - [MongoDB](https://www.mongodb.com/) and [Couchbase](https://www.couchbase.com/)<br/>
+Graph Databases - [Neo4J](https://neo4j.com/) and [Datastax Enterprise Graph](https://www.datastax.com/products/datastax-enterprise-graph)<br/>
+Search Engines - [Elasticsearch](https://www.elastic.co/), [Splunk](https://www.splunk.com/), and [Solr](http://lucene.apache.org/solr/)<br/>
 
 
 
