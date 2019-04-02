@@ -4,7 +4,7 @@ Database (i) Relational (ii)Non Relational
 
 <b>🕭 RELATIONAL / SQL / RDBMS</b>
 
-<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=100px>
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=90px>
 
 [Oracle](https://www.oracle.com/database/) + PL/SQL, [MySQL](https://www.mysql.com/), [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [PostgreSQL](https://www.postgresql.org/), [DB2](https://www.ibm.com/analytics/us/en/db2/).
 
