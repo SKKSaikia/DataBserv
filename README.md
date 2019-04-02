@@ -1,12 +1,12 @@
 # DATABASE : DBMS
 
-Database ---{ (i) Relational (ii)Non Relational
+Database --- (i) Relational (ii)Non Relational
 
-🕭 RELATIONAL / SQL / RDBMS
+<b>🕭 RELATIONAL / SQL / RDBMS</b>
 
 Oracle, MySQL, Microsoft SQL Server, PostgreSQL, DB2.
 
-🕭 NoSQL / Non-RELATIONAL
+<b>🕭 NoSQL / Non-RELATIONAL</b>
 
 Key-Value Stores - Redis and Amazon DynamoDB<br/>
 Wide Column Stores - Cassandra & CQL, Scylla, and HBase<br/>
