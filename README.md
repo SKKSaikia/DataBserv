@@ -24,7 +24,7 @@ Data Base and Server
 
 # How to build own Server to ho
 
-<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px>
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px>
 
 # High Performance Computing
 
