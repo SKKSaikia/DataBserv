@@ -1,6 +1,6 @@
 # DATABASE : DBMS
 
-Database --- (i) Relational (ii)Non Relational
+Database (i) Relational (ii)Non Relational
 
 <b>🕭 RELATIONAL / SQL / RDBMS</b>
 
