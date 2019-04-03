@@ -24,7 +24,7 @@ Data Base and Server
 
 # How to build own Server to ho
 
-<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=200px>
+<img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=120px>
 
 # High Performance Computing
 
