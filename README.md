@@ -39,6 +39,8 @@ NVIDIA CUDA [Documentation](https://docs.nvidia.com/cuda/index.html) : Programmi
 
 # Big Data and Cloud Computing
 
+<img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/Hadoop.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/Google-Cloud-Logo-Lockup-Vertical-medium-png.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/spark.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/mapreduce-logo.jpg" height=90px><a> </a><img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/hive.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DataBserv/blob/master/img/1_A8liBoeAwAZg7rDu394jYg.png" height=90px>
+
 <h2>Big Data</h2>
 
 - [Apache Hadoop]()
