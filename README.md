@@ -48,9 +48,9 @@ NVIDIA CUDA [Documentation](https://docs.nvidia.com/cuda/index.html) : Programmi
 - [Apache Spark](https://spark.apache.org/)<br />
   🛸 [Apache Spark - Edureka](https://www.youtube.com/watch?v=VSbU7bKfNkA&list=PL9ooVrP1hQOGyFc60sExNX1qBWJyV5IMb), [Big Data Analytics using Python and Apache Spark | Machine Learning Tutorial](https://youtu.be/5HWveDdrosk), [Apache Spark - Computerphile](https://youtu.be/tDVPcqGpEnM), [Advanced Apache Spark Training - Sameer Farooqui (Databricks)](https://youtu.be/7ooZ4S7Ay6Y), [Core Spark using Scala](http://www.itversity.com/lessons/core-spark-using-scala/), [Big Data Analytics with Apache Spark and Python](https://www.udemy.com/big-data-analytics-with-apache-spark-and-python/)<br />
 - [MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [https://youtu.be/cvhKoniK5Uo](https://www.youtube.com/watch?v=cvhKoniK5Uo), [Big data Hadoop](https://www.youtube.com/watch?v=zez2Tv-bcXY&list=PL9ooVrP1hQOFrYxqxb0NJCdCABPZNo0pD), [MapReduce Design Patterns](https://www.youtube.com/watch?v=UHxplojcJBU&list=PL9ooVrP1hQOH2KYwavGvsPKQwFV27brlU)<br />
 - [BigQuery](https://cloud.google.com/bigquery/)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [Google BigQuery introduction by Jordan Tigani](https://youtu.be/kKBnFsNWwYM), [Analyzing Big Data in less time with Google BigQuery](https://youtu.be/qqbYrQGSibQ)<br />
 
 <h2>Cloud Computing</h2>
 
