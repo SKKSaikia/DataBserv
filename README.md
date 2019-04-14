@@ -43,13 +43,13 @@ NVIDIA CUDA [Documentation](https://docs.nvidia.com/cuda/index.html) : Programmi
 
 <h2>Big Data</h2>
 
-- [Apache Hadoop]()
-- [Apache Spark]()
-- [MapReduce]()
-- [BigQuery]()
+- [Apache Hadoop](https://hadoop.apache.org/)<br />
+- [Apache Spark](https://spark.apache.org/)<br />
+- [MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)<br />
+- [BigQuery](https://cloud.google.com/bigquery/)<br />
 
 <h2>Cloud Computing</h2>
 
-- [Google Cloud Platform](https://cloud.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/)<br />
   🛸 Official Tutorial [Google Cloud](https://cloud.google.com/docs/tutorials), [Google Cloud Platform](https://cloud.google.com/gcp/getting-started/), [Google Compute Engine](https://cloud.google.com/compute/docs/tutorials), <b> This is where it get's exciting - </b>[Coursera GCP Specializations](https://www.coursera.org/googlecloud), Everything you need to learn about Google Cloud is just there. Also there's a [Google Cloud Certified](https://cloud.google.com/certification/) program. Next - [An Introduction to GCP for Students](https://youtu.be/JtUIQz_EkUw), [Google Cloud Platform Fundamentals](https://www.cbtnuggets.com/it-training/google-cloud-platform-fundamentals). Also, don't forget to have fun with [Google Cloud Next](https://cloud.withgoogle.com/next/sf), amazing conference. Here - [2019](https://www.youtube.com/watch?v=Gv9X-QpCke8&list=PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw), [2018](https://www.youtube.com/watch?v=vJ9OaAqfxo4&list=PLBgogxgQVM9v0xG0QTFQ5PTbNrj8uGSS-) are the archives of the Event.
 
