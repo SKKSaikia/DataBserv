@@ -40,6 +40,7 @@ NVIDIA CUDA [Documentation](https://docs.nvidia.com/cuda/index.html) : Programmi
 # Big Data and Cloud Computing
 
 <h2>Big Data</h2>
+
 - [Apache Hadoop]()
 - [Apache Spark]()
 - [MapReduce]()
