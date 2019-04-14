@@ -18,19 +18,27 @@ Document Stores - [MongoDB](https://www.mongodb.com/) and [Couchbase](https://ww
 Graph Databases - [Neo4J](https://neo4j.com/) and [Datastax Enterprise Graph](https://www.datastax.com/products/datastax-enterprise-graph)<br/>
 Search Engines - [Elasticsearch](https://www.elastic.co/), [Splunk](https://www.splunk.com/), and [Solr](http://lucene.apache.org/solr/)<br/>
 
-
-
-Data Base and Server
-
-# How to build own Server to ho
+# Server and Automation
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=120px>
+
+- [NginX]()
+- [Apache Server]()
+- [Docker]()
+- [Kubernetes]()
+- [Jenkins]()
+- [Ansible]()
 
 # High Performance Computing
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/par.jpg" height=200px><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/openhpc-300x300.jpg" height=120px><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/2000px-Slurm_logo.svg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/warewulf.jpg" height=50% width=50%><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/arm.png" height=30% width=30%><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1280px-Cray_logo.svg.png" height=30% width=30%><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/openmp-enabling-hpc-since-1997.png" height=30% width=30%><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1280px-D-Wave_Systems_logo.svg.png" height=30% width=30%><a> </a><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NVIDIA_CUDA-web_mid.jpg" height=30% width=30%>
 
-Cluster Software [list](https://en.wikipedia.org/wiki/Comparison_of_cluster_software) ;  Stanford's [ME-344 repository](https://github.com/stanfordhpccenter/me344)
+Cluster Software [list](https://en.wikipedia.org/wiki/Comparison_of_cluster_software) and the  Stanford's [ME-344 repository](https://github.com/stanfordhpccenter/me344), I took this class and it was amazing [ME:344](https://www.youtube.com/channel/UCoWzE7qYUTWbpypMyH8Erag/playlists).
+
+- [Intel Parallel Studio](https://software.intel.com/parallel-studio-xe/) - Vtune Amplifier, Advisor 
+- [Slurm](https://slurm.schedmd.com/documentation.html)
+- [Warewulf](http://warewulf.lbl.gov/)
+- [OpenMP](https://www.openmp.org/)
 
 <b> ☸ CUDA PROGRAMMING </b><br/>
 
