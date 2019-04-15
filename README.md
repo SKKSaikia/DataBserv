@@ -24,6 +24,7 @@ Key-Value Stores - [Redis](https://redis.io/) and [Amazon DynamoDB](https://aws.
 Wide Column Stores - [Cassandra](http://cassandra.apache.org/) & [CQL](https://docs.datastax.com/en/archived/cql/3.1/cql/cql_intro_c.html), [Scylla](https://www.scylladb.com/) and [HBase](https://hbase.apache.org/)<br/>
 🛸<br />
 Document Stores - [MongoDB](https://www.mongodb.com/) and [Couchbase](https://www.couchbase.com/)<br/>
+🛸<br />
 Graph Databases - [Neo4J](https://neo4j.com/) and [Datastax Enterprise Graph](https://www.datastax.com/products/datastax-enterprise-graph)<br/>
 🛸<br />
 Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.splunk.com/), and [Solr](http://lucene.apache.org/solr/)<br/>
