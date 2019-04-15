@@ -5,47 +5,47 @@
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=90px>
 
 - [Oracle](https://www.oracle.com/database/) + PL/SQL<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [MySQL](https://www.mysql.com/)<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [PostgreSQL](https://www.postgresql.org/)<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [DB2](https://www.ibm.com/analytics/us/en/db2/)<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 
 <h2>🕭 NoSQL / Non-RELATIONAL</h2>
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1200px-Redis_Logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/220px-DynamoDB.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/1280px-Cassandra_logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo.1509472374.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/hbase_logo_with_orca_large.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo-mongodb-png-file-mongodb-logo-svg-1280.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/neo4j_logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/dsegraph.jpg" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/elastic-logo-V-full-color.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/splunk-580x358.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Solr_Logo_on_white.png" height=100px>
 
 Key-Value Stores - [Redis](https://redis.io/) and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)<br/>
-🛸<br />
+🛸 [](), [](), [](), [](), []()<br />
 Wide Column Stores - [Cassandra](http://cassandra.apache.org/) & [CQL](https://docs.datastax.com/en/archived/cql/3.1/cql/cql_intro_c.html), [Scylla](https://www.scylladb.com/) and [HBase](https://hbase.apache.org/)<br/>
-🛸<br />
+🛸 [](), [](), [](), [](), []()<br />
 Document Stores - [MongoDB](https://www.mongodb.com/) and [Couchbase](https://www.couchbase.com/)<br/>
-🛸<br />
+🛸 [](), [](), [](), [](), []()<br />
 Graph Databases - [Neo4J](https://neo4j.com/) and [Datastax Enterprise Graph](https://www.datastax.com/products/datastax-enterprise-graph)<br/>
-🛸<br />
+🛸 [](), [](), [](), [](), []()<br />
 Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.splunk.com/), and [Solr](http://lucene.apache.org/solr/)<br/>
-🛸<br />
+🛸 [](), [](), [](), [](), []()<br />
 
 # Server and Automation
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=120px>
 
 - [NginX]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Apache Server]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Docker]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Kubernetes]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Jenkins]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 - [Ansible]()<br />
-  🛸<br />
+  🛸 [](), [](), [](), [](), []()<br />
 
 # High Performance Computing
 
@@ -54,13 +54,13 @@ Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.
 Cluster Software [list](https://en.wikipedia.org/wiki/Comparison_of_cluster_software) and the  Stanford's [ME-344 repository](https://github.com/stanfordhpccenter/me344), I took this class and it was amazing [ME:344](https://www.youtube.com/channel/UCoWzE7qYUTWbpypMyH8Erag/playlists).
 
 - [Intel Parallel Studio](https://software.intel.com/parallel-studio-xe/) - Vtune Amplifier, Advisor <br />
-  🛸<br />
+  🛸 [Intel Parallel Studio Training](https://software.intel.com/en-us/parallel-studio-xe/training), [Paralle Studio Guides](https://software.intel.com/en-us/parallel-studio-xe/documentation/get-started)<br />
 - [Slurm](https://slurm.schedmd.com/documentation.html)<br />
-  🛸<br />
+  🛸 [Slurm Tutorial](https://slurm.schedmd.com/tutorials.html), [Slurm Quick Start Tutorial](https://support.ceci-hpc.be/doc/_contents/QuickStart/SubmittingJobs/SlurmTutorial.html), [Princeton - Introducing SLURM](https://researchcomputing.princeton.edu/education/online-tutorials/getting-started/introducing-slurm), [Slurm](https://www.youtube.com/channel/UCWSzrChBNMVx-5uLvAVTuwA/videos), [Slurm Workload Manager](https://youtu.be/5nxMLqF6Eu8), [Introduction to Slurm](https://www.youtube.com/watch?v=NH_Fb7X6Db0&list=PL-FZLNpbBsEuSKk5pGcHJleGorGHnsVi2), [Job Scheduling With Slurm](https://youtu.be/ahhZb8Onk-k)<br />
 - [Warewulf](http://warewulf.lbl.gov/)<br />
-  🛸<br />
+  🛸 [Deploying an HPC cluster with Warewulf](https://youtu.be/fZMkg7uMats), [Warewulf Node Health Check - A Community Approach](https://youtu.be/jtds4tYo7N8), [Warewulf NHC Update: Getting NHC Configured and Writing New Checks](https://youtu.be/R4sjSjVW2D0), [Warewulf Cluster Manager – Howlingly Great](http://www.admin-magazine.com/HPC/Articles/Warewulf-Cluster-Manager-Master-and-Compute-Nodes), [Cluster Workshop - Build Your Own Warewulf Cluster](https://www.ks.uiuc.edu/Training/Workshop/Cluster4/files/warewulf.html), [WareWulf How-To: SysAdmins](http://moo.nac.uci.edu/~hjm/bduc/warewulf.html)<br />
 - [OpenMP](https://www.openmp.org/)<br />
-  🛸<br />
+  🛸 [OpenMP Youtube](https://www.youtube.com/user/OpenMPARB), [Parallel programming in C++ with OpenMP (Visual Studio tutorial)](https://youtu.be/_1QNzaWPYOE), [Introduction to OpenMP](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG), [OpenMP NPTEL](https://www.youtube.com/watch?v=MySDdEdtDCA&list=PLGCnNukZCocHtiaWL_V-RAiAIYdQsVXFS), [OpenMP Tutorial](https://computing.llnl.gov/tutorials/openMP/)<br /> 
 
 <b> ☸ CUDA PROGRAMMING </b><br/>
 
