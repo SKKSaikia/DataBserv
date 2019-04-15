@@ -4,15 +4,15 @@
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=90px>
 
-- [Oracle](https://www.oracle.com/database/) + PL/SQL
+- [Oracle](https://www.oracle.com/database/) + PL/SQL<br />
   🛸<br />
-- [MySQL](https://www.mysql.com/)
+- [MySQL](https://www.mysql.com/)<br />
   🛸<br />
-- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)<br />
   🛸<br />
-- [PostgreSQL](https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)<br />
   🛸<br />
-- [DB2](https://www.ibm.com/analytics/us/en/db2/)
+- [DB2](https://www.ibm.com/analytics/us/en/db2/)<br />
   🛸<br />
 
 <h2>🕭 NoSQL / Non-RELATIONAL</h2>
@@ -33,17 +33,17 @@ Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=120px>
 
-- [NginX]()
+- [NginX]()<br />
   🛸<br />
-- [Apache Server]()
+- [Apache Server]()<br />
   🛸<br />
-- [Docker]()
+- [Docker]()<br />
   🛸<br />
-- [Kubernetes]()
+- [Kubernetes]()<br />
   🛸<br />
-- [Jenkins]()
+- [Jenkins]()<br />
   🛸<br />
-- [Ansible]()
+- [Ansible]()<br />
   🛸<br />
 
 # High Performance Computing
@@ -52,10 +52,14 @@ Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.
 
 Cluster Software [list](https://en.wikipedia.org/wiki/Comparison_of_cluster_software) and the  Stanford's [ME-344 repository](https://github.com/stanfordhpccenter/me344), I took this class and it was amazing [ME:344](https://www.youtube.com/channel/UCoWzE7qYUTWbpypMyH8Erag/playlists).
 
-- [Intel Parallel Studio](https://software.intel.com/parallel-studio-xe/) - Vtune Amplifier, Advisor 
-- [Slurm](https://slurm.schedmd.com/documentation.html)
-- [Warewulf](http://warewulf.lbl.gov/)
-- [OpenMP](https://www.openmp.org/)
+- [Intel Parallel Studio](https://software.intel.com/parallel-studio-xe/) - Vtune Amplifier, Advisor <br />
+  🛸<br />
+- [Slurm](https://slurm.schedmd.com/documentation.html)<br />
+  🛸<br />
+- [Warewulf](http://warewulf.lbl.gov/)<br />
+  🛸<br />
+- [OpenMP](https://www.openmp.org/)<br />
+  🛸<br />
 
 <b> ☸ CUDA PROGRAMMING </b><br/>
 
