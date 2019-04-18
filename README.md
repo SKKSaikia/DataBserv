@@ -8,12 +8,12 @@
   🛸 [Oracle SQL - From Beginner to Pro](https://www.udemy.com/oracle-sql-from-beginner-to-pro/), [Prentice Hall - Oracle SQL LiveLessons](informit.com/store/oracle-sql-livelessons-video-training-downloadable-9780134275741), [SQL Tutorial - Oracle Database](https://www.youtube.com/watch?v=0NLsJQCvKXY&list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ), [Oracle Database 12c](https://www.youtube.com/watch?v=aaJF9vb4yKQ&list=PLd3UqWTnYXOnQ5a990TUv7FJVzB2M7h2O)<br />
 - [MySQL](https://www.mysql.com/)<br />
   🛸 [MySQL Tutorial - Derek Banas](https://youtu.be/yPu6qV5byu4), [SQL - Full course for beginners](https://youtu.be/HXV3zeQKqGY), [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)<br />
-- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), [SQL Tutorial for Beginners - Full SQL Course [2019]](https://youtu.be/7S_tz1z_5bA)<br />
+  🛸 [SQL Server 2016 Tutorial for Beginners](https://youtu.be/755Co82fNvU), [Microsoft MCSE SQL Server 2014 70-464](http://www.cbtnuggets.com/it-training/microsoft-mcse-sql-server-2014-70-464)<br />
 - [PostgreSQL](https://www.postgresql.org/)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [SQL & Database Design A-Z: Learn MS SQL Server + PostgreSQL](https://www.udemy.com/sqldatabases/), [The Complete SQL Bootcamp (PostgreSQL)](https://www.udemy.com/the-complete-sql-bootcamp/), [Python Programming with POSTGRESQL](https://www.udemy.com/python-programming-with-postgresql/), [https://youtu.be/qw--VYLpxG4](https://youtu.be/qw--VYLpxG4), [PostgreSQL DBA Tutorial for Beginners](https://youtu.be/aUfPf-clLLs), [Step by Step Javascript and Postgres Tutorial using node-postgres](https://youtu.be/ufdHsFClAk0)<br />
 - [DB2](https://www.ibm.com/analytics/us/en/db2/)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [IBM DB2 Tutorial](https://www.youtube.com/watch?v=aMnBCOq9qrk&list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM), [TutorialsPoint DB2](https://www.youtube.com/watch?v=PRAW13Yqixg&list=PLWPirh4EWFpFyVlueRse3igu2ME9HSB4c)<br />
 
 <h2>🕭 NoSQL / Non-RELATIONAL</h2>
 
