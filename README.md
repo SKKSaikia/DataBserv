@@ -34,18 +34,18 @@ Search Engines - [ElasticSearch](https://www.elastic.co/), [Splunk](https://www.
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/NGINX-logo-rgb-large.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/apache-http-server-300x300.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/docker_facebook_share.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Kubernetes_Logo.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/jenkins-logo-lg.png" height=120px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Ansible_logo.svg.png" height=120px>
 
-- [NginX]()<br />
+- [NginX](https://www.nginx.com/)<br />
+  🛸 [Nginx 2019 - Beginner to Advanced](https://www.udemy.com/nginx-beginner-to-advanced/), [Nginx Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/nginx-fundamentals/), [Nginx Tutorial | Learn Nginx Fundamentals | Deploy a Web Application Using Nginx | Edureka](https://youtu.be/1ndlRiaYiWQ), [NGINX tutorial | Learn NGINX Fundamentals | Eduonix](https://youtu.be/XhgUClE5uC0)<br />
+- [Apache Server](https://httpd.apache.org/)<br />
   🛸 [](), [](), [](), [](), []()<br />
-- [Apache Server]()<br />
+- [Docker](https://www.docker.com/)<br />
   🛸 [](), [](), [](), [](), []()<br />
-- [Docker]()<br />
+- [Kubernetes](https://kubernetes.io/)<br />
   🛸 [](), [](), [](), [](), []()<br />
-- [Kubernetes]()<br />
-  🛸 [](), [](), [](), [](), []()<br />
-- [Jenkins]()<br />
-  🛸 [](), [](), [](), [](), []()<br />
-- [Ansible]()<br />
-  🛸 [](), [](), [](), [](), []()<br />
+- [Jenkins](https://jenkins.io/)<br />
+  🛸 [What is Jenkins | Jenkins Tutorial for Beginners | Jenkins Continuous Integration Tutorial | Edureka](https://youtu.be/p7-U1_E_j3w), [What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://youtu.be/LFDrDnKPOTg), [Jenkins Tutorial](https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG), [Jenkins Tutorial For Beginners - 1 | Continuous Integration with Jenkins | DevOps Tools | Edureka](https://youtu.be/Lxd6JMMxuwo), [Jenkins Tutorial | Jenkins Course For Developers and DevOps](https://youtu.be/BvUkXrAAqjE), [Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | CICD on containers](https://youtu.be/nMLQgXf8tZ0), [Effective Jenkins: Continuous Delivery with Jenkins Pipeline](https://www.packtpub.com/networking-and-servers/effective-jenkins-continuous-delivery-jenkins-pipeline-video), [Deploying Jenkins to the Cloud with DevOps Tools](https://www.packtpub.com/networking-and-servers/deploying-jenkins-cloud-devops-tools-video)<br />
+- [Ansible](https://www.ansible.com/)<br />
+  🛸 [Ansible Playbook Tutorial | Ansible Tutorial For Beginners | DevOps Tools | Edureka](https://youtu.be/dCQpaTTTv98), [What is Ansible? A short DevOps Introduction](https://youtu.be/xMHVvHZ-Zn4), [What Is Ansible? | Ansible Tutorial For Beginners | DevOps Tools | DevOps Training | Edureka](https://youtu.be/4nKW2eF-nIw), [Ansible Tutorial | What is Ansible | Ansible | DevOps Tools | Edureka](https://youtu.be/XJpN8qpxWbA), [Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins](https://youtu.be/Z9G5stlXoyg), [Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible](https://youtu.be/nE4b9mW2ym0), [Red Hat Certificate of Expertise in Ansible Automation Prep Course](https://linuxacademy.com/amazon-web-services/courses), [Continuous Delivery Using Docker And Ansible](https://www.pluralsight.com/courses/docker-ansible-continuous-delivery), [Introduction to Ansible](http://shop.oreilly.com/product/0636920050216.do), [Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)<br />
 
 # High Performance Computing
 
