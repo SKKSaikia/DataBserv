@@ -1,5 +1,7 @@
 # DATABASE : DBMS
 
+Welcome Devs! I have created a list of best-selling resources (level wise from Top to Bottom) that you can learn chronologically. Let's begin this amazing journey.
+
 <h2>🕭 RELATIONAL / SQL / RDBMS</h2>
 
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=90px>
