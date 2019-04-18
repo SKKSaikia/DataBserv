@@ -5,9 +5,9 @@
 <img src="https://github.com/SKKSaikia/DB_server/blob/master/img/Oracle-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/MySQL-Logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/microsoft-sql-server-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/postgresql-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/DB_server/blob/master/img/IBM%20DB2_1.png" height=90px>
 
 - [Oracle](https://www.oracle.com/database/) + PL/SQL<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [Oracle SQL - From Beginner to Pro](https://www.udemy.com/oracle-sql-from-beginner-to-pro/), [Prentice Hall - Oracle SQL LiveLessons](informit.com/store/oracle-sql-livelessons-video-training-downloadable-9780134275741), [SQL Tutorial - Oracle Database](https://www.youtube.com/watch?v=0NLsJQCvKXY&list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ), [Oracle Database 12c](https://www.youtube.com/watch?v=aaJF9vb4yKQ&list=PLd3UqWTnYXOnQ5a990TUv7FJVzB2M7h2O)<br />
 - [MySQL](https://www.mysql.com/)<br />
-  🛸 [](), [](), [](), [](), []()<br />
+  🛸 [MySQL Tutorial - Derek Banas](https://youtu.be/yPu6qV5byu4), [SQL - Full course for beginners](https://youtu.be/HXV3zeQKqGY), [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)<br />
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)<br />
   🛸 [](), [](), [](), [](), []()<br />
 - [PostgreSQL](https://www.postgresql.org/)<br />
